@@ -8,7 +8,7 @@ This is a simple a react to-do app.
 - 📝 **Create**: The user is able to create a to-do item with text
 - 🔍 **Read**: User can see all the to-do's from the in-memory storage.
 - ❎ **Mark Completed/Active**: User can mark certain to-do item as completed or active.
-- ❎ **Filter To-do's**: User can filter by their status.
+- 🧮 **Filter To-do's**: User can filter by their status.
 
 
 ## Technologies Used
